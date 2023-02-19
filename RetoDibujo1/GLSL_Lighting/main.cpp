@@ -43,13 +43,13 @@ public:
 
          glPushMatrix();
          glTranslatef(9, 9, -27);
-         glRotatef(45, 0.5, 0.1, 2);
+         glRotatef(45, 0.5, 0.1, 10);
          glutSolidCube(3);
          glPopMatrix();
 
          glPushMatrix();
-         glTranslatef(9, 9, -27);
-         glRotatef(45, 0.5, 0.1, 2);
+         glTranslatef(-9, 9, -27);
+         glRotatef(45, 15, 1, 30);
          glutSolidCube(3);
          glPopMatrix();
 

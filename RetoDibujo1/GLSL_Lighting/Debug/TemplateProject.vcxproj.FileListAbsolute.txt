@@ -1,0 +1,2 @@
+C:\Users\Laboratorio\Downloads\GLSL_Lighting\Debug\TemplateProject.exe
+D:\UNIVERSIDAD\Quinto semestre\ComputaciónGráfrica\proyectosCommunity\RetoDibujo1\GLSL_Lighting\Debug\TemplateProject.exe
